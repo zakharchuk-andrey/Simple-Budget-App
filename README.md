@@ -2,7 +2,9 @@
 
 ### Testing Boostrap
 
+<img src='preview.png'>
+
 - Adaptation for `Iphone SE`, `Iphone XR`, `Ipad Air`
 
 
-## [Budget_app](https://zakharchuk-andrey.github.io/Simple-Budget-App/)
+## [Budget App](https://zakharchuk-andrey.github.io/Simple-Budget-App/)
